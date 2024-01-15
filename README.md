@@ -9,7 +9,7 @@ In this repository you can find two folders with prjects I worked on as part of 
 - Walmart sales : the goal was to make a model that could predict walmart weekly sales with the best possible precision on the predictions. 
 - Conversion rate challenge : The goal was to compete with other students to see who could make the best model for predicting conversion rate from non-subscriber to subscriber of a data science newsletter
 
-For more information you can consult the dedicated README file inside the folder.
+For more information you can consult the dedicated README files inside each porject folder.
 
 ## Unsupervised Machine Learning
 
