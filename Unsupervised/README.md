@@ -1,4 +1,4 @@
-# Uber picjups
+# Uber pickups
 
 ## Project description
 The objective was to create an algorithm that could determine where are the hot-zones that uber drivers should be in.
