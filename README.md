@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-In this repository you can find two folders with prjects I worked on as part of my Data science and engineering certification at Jedha Bootcamp
+In this repository you can find two folders with projects I worked on as part of my Data science and engineering certification at Jedha Bootcamp
 
 ## Supervised Machine Learning
 
